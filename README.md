@@ -30,7 +30,7 @@ Currently : MERN Stack • DSA in Java • Machine Learning • Generative AI
 Motto     : "Building solutions, learning continuously, and turning ideas into impactful technology."
 ```
 
-- 🔭 Building **TradeNexus AI** — an AI-powered financial analysis platform using NLP & sentiment analysis
+- 🔭 Built **TradeNexus AI** — an AI-powered financial analysis platform using NLP & sentiment analysis
 - 🌱 Deepening skills in **MERN Stack**, **Machine Learning**, and **Generative AI**
 - 🧠 Exploring **NLP**, **Hugging Face**, and **LLM-based applications**
 - 💬 Ask me about **Python · Java · Flask · React · ML · OCR Systems · REST APIs**
@@ -96,7 +96,7 @@ Motto     : "Building solutions, learning continuously, and turning ideas into i
 ## 📂 Featured Projects
 
 ### 🤖 TradeNexus AI — AI-Powered Financial Analysis Platform
-> `Python` `Flask` `Node.js` `Hugging Face`
+> `Python` `Flask` `Next.js` `Node.js` `REST API`
 
 - Built a real-time investment platform delivering personalised trading strategies using NLP-driven sentiment and stock analysis
 - Integrated portfolio management tools and AI-driven insights, reducing investor decision-making time by **50%**
@@ -131,7 +131,7 @@ Motto     : "Building solutions, learning continuously, and turning ideas into i
 
 | 🎖️ | Achievement |
 |:---:|:---|
-| 🎓 | **CGPA: 8.89 / 10.0** — Maharaja Institute of Technology Mysore |
+| 🎓 | **CGPA: 9.0 / 10.0** — Maharaja Institute of Technology Mysore |
 | 📘 | **Apna College Sigma 6.0** — Full-Stack Web Dev (MERN) · DSA in Java · Quantitative Aptitude |
 | 🛡️ | **National Level Hackathon 5.0** — Cybersecurity & Ethical Hacking (INVADERS), 50+ teams, MIT Mysore (Nov 2023) |
 | 🏙️ | **Hack 4 Mysore** — Built a real-world tech-driven solution among 50+ teams at MIT Mysuru |
