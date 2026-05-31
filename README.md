@@ -95,7 +95,7 @@ Motto     : "Building solutions, learning continuously, and turning ideas into i
 
 ## 📂 Featured Projects
 
-### 🤖 TradeNexus AI — AI-Powered Financial Analysis Platform
+### 🤖 [TradeNexus AI — AI-Powered Financial Analysis Platform](https://github.com/moinshariff26/TradeNexus-AI)
 > `Python` `Flask` `Next.js` `Node.js` `REST API`
 
 - Built a real-time investment platform delivering personalised trading strategies using NLP-driven sentiment and stock analysis
