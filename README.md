@@ -111,7 +111,7 @@ Motto     : "Building solutions, learning continuously, and turning ideas into i
 
 ---
 
-### 🩺 Diabetes Prediction & Analysis Tool
+### 🩺 [Diabetes Prediction & Analysis Tool](https://github.com/moinshariff26/Diabetes_Detection)
 > `Python` `Flask` `Scikit-Learn`
 
 - ML-based web application predicting diabetes risk with **85% accuracy**
