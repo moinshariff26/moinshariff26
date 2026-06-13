@@ -95,15 +95,15 @@ Motto     : "Building solutions, learning continuously, and turning ideas into i
 
 ## 📂 Featured Projects
 
-### 🤖 [TradeNexus AI — AI-Powered Financial Analysis Platform](https://github.com/moinshariff26/TradeNexus-AI)
-> `Python` `Flask` `Next.js` `Node.js` `REST API`
+### [TradeNexus AI — AI-Powered Financial Analysis Platform](https://github.com/moinshariff26/TradeNexus-AI)
+> `Python` `Flask` `Next.js` `PostgreSQL` `Node.js` `REST API`
 
 - Built a real-time investment platform delivering personalised trading strategies using NLP-driven sentiment and stock analysis
 - Integrated portfolio management tools and AI-driven insights, reducing investor decision-making time by **50%**
 
 ---
 
-### 🌍 OCR & Multilingual Translator Web Application
+### [OCR & Multilingual Translator Web Application](https://github.com/moinshariff26/OCR-and-Multilingual-Translator)
 > `Flask` `EasyOCR` `Google Translate API` `SQLite3`
 
 - Achieved **90% text extraction accuracy** from images using EasyOCR
@@ -111,7 +111,7 @@ Motto     : "Building solutions, learning continuously, and turning ideas into i
 
 ---
 
-### 🩺 [Diabetes Prediction & Analysis Tool](https://github.com/moinshariff26/Diabetes_Detection)
+### [Diabetes Prediction & Analysis Tool](https://github.com/moinshariff26/Diabetes_Detection)
 > `Python` `Flask` `Scikit-Learn`
 
 - ML-based web application predicting diabetes risk with **85% accuracy**
