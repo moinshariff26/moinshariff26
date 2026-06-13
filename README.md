@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Moin%20Shariff&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20CS%20Engineer&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Moin%20Shariff&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Agentic%20AI&descAlignY=58&descSize=17" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software+Solutions+%F0%9F%9A%80;Full-Stack+%2B+AI%2FML+Developer+%F0%9F%A4%96;Turning+Ideas+into+Impactful+Technology+%E2%9C%A8;Computer+Science+Engineer+%7C+2022%E2%80%932026+%F0%9F%8E%93" alt="Typing SVG" />
