@@ -25,7 +25,7 @@ Name      : Moin Shariff
 Location  : Mysore, Karnataka, India
 Degree    : B.E. Computer Science & Engineering — Maharaja Institute of Technology Mysore (2022–2026)
 CGPA      : 9.0 / 10.0
-Interests : Full-Stack Dev | AI/ML | NLP | Generative AI | Cybersecurity
+Interests : Full-Stack Dev | AI/ML | NLP | Generative & Agentic AI | Cybersecurity | Cloud
 Currently : MERN Stack • DSA in Java • Machine Learning • Generative AI
 Motto     : "Building solutions, learning continuously, and turning ideas into impactful technology."
 ```
